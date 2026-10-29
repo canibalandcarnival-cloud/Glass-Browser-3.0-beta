@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Glass Browser</string>
+    <string name="search_or_enter_website">Search or enter website</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="reading_list_title">Reading List</string>
+    <string name="bookmarks_title">Bookmarks</string>
+    <string name="history_title">History</string>
+    <string name="show_all">Show All</string>
+    <string name="show_less">Show Less</string>
+    <string name="start_page_title">Start Page</string>
+    <string name="private_mode_label">Private</string>
+    <string name="tabs_count_format">%1$d Tabs</string>
+    <string name="single_tab_label">1 Tab</string>
+    <string name="customize_start_page">Customize &amp; Wallpaper</string>
+    <string name="appearance_section_title">Appearance</string>
+    <string name="light_mode_label">Light</string>
+    <string name="dark_mode_label">Dark</string>
+    <string name="wallpaper_picker_title">Start Page Wallpaper</string>
+    <string name="wallpaper_untinted_subtitle">100% untinted wallpaper • Adaptive Favorite labels</string>
+    <string name="import_wallpaper_label">Import</string>
+    <string name="os_shell_section_title">Operating System Shell</string>
+    <string name="default_home_os_label">Default OS Home Launcher</string>
+    <string name="default_home_os_subtitle">Phone Home gesture &amp; boot opens Glass Browser as primary OS</string>
+    <string name="default_browser_os_label">Default System Browser</string>
+    <string name="default_browser_os_subtitle">Route all system links &amp; web searches here</string>
+    <string name="immersive_os_mode_label">Immersive Fullscreen OS Mode</string>
+    <string name="immersive_os_mode_subtitle">Hide stock Android system bars for standalone OS experience</string>
+    <string name="os_role_active_badge">Active</string>
+    <string name="os_role_set_button">Set Default</string>
+    <string name="motion_and_feedback_title">Physics, Audio &amp; Display</string>
+    <string name="refresh_rate_360_label">Up to 360Hz High Refresh Engine</string>
+    <string name="force_gpu_rendering_label">Force GPU Rendering</string>
+    <string name="force_gpu_rendering_subtitle">Force hardware GPU acceleration for 2D drawing &amp; WebView tiles</string>
+    <string name="enable_gpu_rasterization_label">Enable GPU Rasterization</string>
+    <string name="enable_gpu_rasterization_subtitle">Rasterize web vector paths, text &amp; offscreen scroll tiles directly on GPU</string>
+    <string name="disable_hw_overlays_label">Disable Hardware Overlays</string>
+    <string name="disable_hw_overlays_subtitle">Always use GPU for unified screen compositing</string>
+    <string name="device_optimization_badge_format">%1$s • %2$d Cores</string>
+    <string name="sfx_feedback_label">Glass Sound Effects (SFX)</string>
+    <string name="haptic_feedback_label">Tactile Haptic Feedback</string>
+    <string name="new_tab_group_title">New Tab Group</string>
+    <string name="close_all_tabs">Close All Tabs</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="add_to_reading_list">Add to Reading List</string>
+    <string name="add_bookmark">Add Bookmark</string>
+    <string name="reload_page">Reload Page</string>
+    <string name="clear_history">Clear History</string>
+    <string name="search_tabs_placeholder">Search open tabs…</string>
+    <string name="empty_bookmarks_hint">Save sites here for quick frosted-glass access.</string>
+    <string name="empty_reading_list_hint">Add articles to read anytime in distraction-free clarity.</string>
+    <string name="empty_history_hint">Pages you visit in standard tabs appear here.</string>
+    <string name="cd_back_button">Navigate back</string>
+    <string name="cd_search_bar">Search or enter website address</string>
+    <string name="cd_voice_search">Voice search or quick clear</string>
+    <string name="cd_tabs_button">Open tab switcher</string>
+    <string name="cd_new_tab">Create new tab</string>
+    <string name="cd_done_tabs">Done viewing tabs</string>
+    <string name="cd_close_tab">Close tab</string>
+    <string name="cd_more_options">Browser settings and customization</string>
+    <string name="cd_tab_groups">Manage tab groups</string>
+    <string name="cd_search_tabs">Search tabs</string>
+    <string name="cd_import_wallpaper">Import custom wallpaper from device</string>
+
+    <!-- Downloads Tab & Engine -->
+    <string name="downloads_title">Downloads</string>
+    <string name="empty_downloads_hint">Files, images, and documents you download from the web appear here.</string>
+    <string name="downloads_filter_all">All</string>
+    <string name="downloads_filter_active">Active</string>
+    <string name="downloads_filter_completed">Completed</string>
+    <string name="downloads_url_placeholder">Paste direct file URL to download…</string>
+    <string name="downloads_start_button">Download</string>
+    <string name="downloads_clear_completed">Clear Done</string>
+    <string name="download_open_action">Open</string>
+    <string name="download_share_action">Share</string>
+    <string name="download_retry_action">Retry</string>
+    <string name="download_delete_action">Remove download</string>
+
+    <!-- Siri iOS 26 AI Assistant -->
+    <string name="siri_ai_title">Siri Intelligence</string>
+    <string name="siri_ai_subtitle">iOS 26 Liquid Glass • Gemini 3.8 Flash</string>
+    <string name="siri_input_placeholder">Ask Siri about this page or the web…</string>
+    <string name="siri_chip_summarize">Summarize Page</string>
+    <string name="siri_chip_visual_screen">Ask Screen Vision</string>
+    <string name="siri_chip_key_points">Key Takeaways</string>
+    <string name="siri_chip_smart_digest">Smart Digest</string>
+    <string name="siri_chip_translate">Translate</string>
+    <string name="siri_listening_hint">Listening &amp; analyzing context…</string>
+    <string name="cd_siri_orb_button">Open Siri AI Assistant</string>
+    <string name="cd_siri_voice_button">Speak to Siri</string>
+    <string name="cd_siri_send_button">Send prompt to Siri</string>
+    <string name="cd_siri_close_button">Close Siri Assistant</string>
+
+    <!-- WebView Components & Tools -->
+    <string name="web_tools_title">Web Components &amp; Controls</string>
+    <string name="web_find_in_page">Find in Page</string>
+    <string name="web_find_placeholder">Find on page…</string>
+    <string name="web_desktop_site">Desktop Site</string>
+    <string name="web_reader_mode">Reader View</string>
+    <string name="web_page_security">Connection &amp; SSL Info</string>
+    <string name="web_share_page">Share Page</string>
+    <string name="web_copy_link">Copy Link</string>
+    <string name="web_open_downloads">Downloads</string>
+    <string name="web_forward_action">Forward</string>
+    <string name="web_stop_loading">Stop</string>
+    <string name="cd_web_tools_button">Open WebView tools and controls</string>
+    <string name="cd_forward_button">Navigate forward</string>
+
+    <!-- Custom Per-Site Frosted Navigation Bar -->
+    <string name="site_nav_replace_title">Custom Site Navigation Bar</string>
+    <string name="site_nav_replace_subtitle">Adapt each site with its own custom bottom bar &amp; dock beneath YouTube</string>
+    <string name="site_nav_home_fallback">Home</string>
+    <string name="site_nav_search_placeholder_format">Search %1$s…</string>
+    <string name="cd_site_nav_home">Go to site home page</string>
+    <string name="cd_site_nav_search">Search within this website</string>
+    <string name="cd_site_nav_close_search">Close site search</string>
+    <string name="cd_site_nav_domain">Website address and search</string>
+    <string name="cd_site_nav_reload">Reload or stop loading page</string>
+    <string name="cd_site_nav_share">Share current webpage</string>
+    <string name="cd_site_nav_bookmarks">Open bookmarks and reading list</string>
+    <string name="cd_site_nav_reader">Toggle distraction-free Reader View</string>
+    <string name="cd_site_nav_find">Find text on this page</string>
+    <string name="cd_site_nav_desktop">Toggle Desktop Site mode</string>
+    <string name="site_nav_reader_label">Reader</string>
+    <string name="site_nav_find_label">Find</string>
+    <string name="site_nav_desktop_label">Desktop</string>
+    <string name="site_bookmarks_quick_title">Bookmarks &amp; Reading</string>
+    <string name="site_bookmarks_save_current">Bookmark Page</string>
+    <string name="site_bookmarks_save_reading">Save to Reading</string>
+    <string name="site_bookmarks_open_all">All Bookmarks</string>
+
+    <!-- Google Account & Cloud Sync -->
+    <string name="account_section_title">Google Account &amp; Cloud Sync</string>
+    <string name="account_sync_subtitle">Sync bookmarks, favorites, reading list &amp; wallpaper across devices</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sync_now_label">Sync Now</string>
+    <string name="sign_out_label">Sign Out</string>
+    <string name="account_pill_sign_in">Sign In</string>
+    <string name="account_manage_label">Account</string>
+    <string name="cd_account_button">Google Account and cloud sync</string>
+
+    <!-- Browser Opening, Site Portal & Webpage Loading Animations -->
+    <string name="opening_browser_tagline">The Transparent Web Experience</string>
+    <string name="opening_browser_ready_pill">Liquid Glass Engine Ready</string>
+    <string name="loading_site_format">Loading %1$s…</string>
+    <string name="loading_web_fallback">Loading webpage…</string>
+    <string name="opening_site_format">Opening %1$s</string>
+</resources>
